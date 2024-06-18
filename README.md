@@ -29,7 +29,7 @@
     <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer">
         <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40"
             height="40" />
-    </a>
+    </a>&nbsp;
     <a href="https://angular.io" target="_blank" rel="noreferrer">
         <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40" />
     </a>&nbsp;
