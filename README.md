@@ -22,7 +22,7 @@
       width="40"
       height="40"
     />
-  </a>
+  </a>&nbsp;&nbsp;
   <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
     <img
       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg"
@@ -132,7 +132,7 @@
     />
   </a>
 </p>
-
+<br />
 <p>
     <img align="left"
         src="https://github-readme-stats.vercel.app/api/top-langs?username=dmmuralitharan&show_icons=true&locale=en&layout=compact"
