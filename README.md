@@ -4,78 +4,57 @@
 
 🔭 I’m currently working on: an Online learning platform.<br>🌱 I’m currently learning: NgRx.<br>💬 Ask me about: Full-stack development, optimizing frontend-backend integration, and improving project scalability.<br>
 
-<h3 align="left">Connect with me:</h3>
+## 🌐 Socials:
 
-<p align="left">
-    <a href="https://linkedin.com/in/dmmuralitharan" target="blank"><img align="center"
-            src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
-            alt="dmmuralitharan" height="30" width="40" /></a>
-</p>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/dmmuralitharan) 
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left">
-    <a title="HTML5" href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg"
-            alt="html5" width="40" height="40" />
-    </a>&nbsp;
-    <a title="CSS3" href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg"
-            alt="css3" width="40" height="40" />
-    </a>&nbsp;
-    <a title="JavaScript" href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg"
-            alt="javascript" width="40" height="40" />
-    </a>&nbsp;
-    <a title="Bootstrap" href="https://getbootstrap.com" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg"
-            alt="bootstrap" width="40" height="40" />
-    </a>&nbsp;
-    <a title="Tailwind" href="https://tailwindcss.com/" target="_blank" rel="noreferrer">
-        <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40"
-            height="40" />
-    </a>&nbsp;
-    <a title="Angular" href="https://angular.io" target="_blank" rel="noreferrer">
-        <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40" />
-    </a>&nbsp;
-    <a title="Typescript" href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg"
-            alt="typescript" width="40" height="40" />
-    </a>&nbsp;
-    <a title="Nodejs" href="https://nodejs.org" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg"
-            alt="nodejs" width="40" height="40" />
-    </a>
-    <a title="Expressjs" href="https://expressjs.com" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg"
-            alt="express" width="40" height="40" />
-    </a>&nbsp;
-    <a title="Mongodb" href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg"
-            alt="mongodb" width="40" height="40" />
-    </a>&nbsp;
-    <a title="PHP" href="https://www.php.net" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php"
-            width="40" height="40" />
-    </a>&nbsp;
-    <a title="MySql" href="https://www.mysql.com/" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg"
-            alt="mysql" width="40" height="40" />
-    </a>&nbsp;
-    <a title="Flask" href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer">
-        <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40"
-            height="40" />
-    </a>&nbsp;
-    <a title="Git" href="https://git-scm.com/" target="_blank" rel="noreferrer">
-        <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40" />
-    </a>&nbsp;
-    <a title="Linux" href="https://www.linux.org/" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux"
-            width="40" height="40" />
-    </a>&nbsp;
-</p>
-<br />
-<p>
-    <img align="left"
-        src="https://github-readme-stats.vercel.app/api/top-langs?username=dmmuralitharan&show_icons=true&locale=en&layout=compact"
-        alt="dmmuralitharan" />
-</p>
+
+<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=dmmuralitharan.dmmuralitharan&"  />
+
+###
+
+<h3 align="left">💻Tech Stack</h3>
+
+###
+
+<div align="left" style="display:flex">
+  <img src="https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white&style=for-the-badge" height="25" style="border-radius:5px" alt="html5 logo"  />
+  <img width="1" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white&style=for-the-badge" height="25" style="border-radius:5px" alt="css3 logo"  />
+  <img width="1" />
+  <img src="https://img.shields.io/badge/Tailwind CSS-06B6D4?logo=tailwindcss&logoColor=black&style=for-the-badge" height="25" style="border-radius:5px" alt="tailwindcss logo"  />
+  <img width="1" />
+  <img src="https://img.shields.io/badge/Bootstrap-7952B3?logo=bootstrap&logoColor=white&style=for-the-badge" height="25" style="border-radius:5px" alt="bootstrap logo"  />
+  <img width="1" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black&style=for-the-badge" height="25" style="border-radius:5px" alt="javascript logo"  />
+  <img width="1" />
+  <img src="https://img.shields.io/badge/Angular-DD0031?logo=angular&logoColor=white&style=for-the-badge" height="25" style="border-radius:5px" alt="angularjs logo"  />
+  <img width="1" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white&style=for-the-badge" height="25" style="border-radius:5px" alt="typescript logo"  />
+  <img width="1" />
+  <img src="https://img.shields.io/badge/Node.js-339933?logo=nodedotjs&logoColor=white&style=for-the-badge" height="25" style="border-radius:5px" alt="nodejs logo"  />
+  <img width="1" />
+  <img src="https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=white&style=for-the-badge" height="25" style="border-radius:5px" alt="mongodb logo"  />
+  <img width="1" />
+  <img src="https://img.shields.io/badge/Express-000000?logo=express&logoColor=white&style=for-the-badge" height="25" style="border-radius:5px" alt="express logo"  />
+  <img width="1" />
+  <img src="https://img.shields.io/badge/PHP-777BB4?logo=php&logoColor=black&style=for-the-badge" height="25" style="border-radius:5px" alt="php logo"  />
+  <img width="1" />
+  <img src="https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white&style=for-the-badge" height="25" style="border-radius:5px" alt="mysql logo"  />
+  <img width="1" />
+  <img src="https://img.shields.io/badge/Flask-000000?logo=flask&logoColor=white&style=for-the-badge" height="25" style="border-radius:5px" alt="flask logo"  />
+  <img width="1" />
+  <img src="https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white&style=for-the-badge" height="25" style="border-radius:5px" alt="git logo"  />
+  <img width="1" />
+  <img src="https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white&style=for-the-badge" height="25" style="border-radius:5px" alt="github logo"  />
+  <img width="1" />
+  <img src="https://img.shields.io/badge/GitHub Actions-2088FF?logo=githubactions&logoColor=white&style=for-the-badge" height="25" style="border-radius:5px" alt="githubactions logo"  />
+  <img width="1" />
+  <img src="https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black&style=for-the-badge" height="25" style="border-radius:5px" alt="linux logo"  />
+</div>
+
+###
+
+<img src="https://raw.githubusercontent.com/dmmuralitharan/dmmuralitharan/output/snake.svg" alt="Snake animation" />
+
+###
