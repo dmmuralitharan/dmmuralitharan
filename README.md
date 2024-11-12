@@ -2,7 +2,7 @@
 
 <h1 align="center">Hi 👋, I'm Muralitharan</h1>
 
-# 💫 About Me:
+## 💫 About Me:
 
 🔭 I’m currently working on: an Online learning platform.<br>🌱 I’m currently learning: NgRx.<br>💬 Ask me about: Full-stack development, optimizing frontend-backend integration, and improving project scalability.<br>
 
@@ -12,7 +12,7 @@
 
 ###
 
-<h3 align="left">💻Tech Stack</h3>
+<h2 align="left">💻 Tech Stack</h2>
 
 ###
 
