@@ -1,7 +1,11 @@
 <h1 align="center">Hi 👋, I'm Muralitharan</h1>
-<h3 align="center">A passionate full stack developer from India</h3>
+
+# 💫 About Me:
+
+🔭 I’m currently working on: an Online learning platform.<br>🌱 I’m currently learning: NgRx.<br>💬 Ask me about: Full-stack development, optimizing frontend-backend integration, and improving project scalability.<br>
 
 <h3 align="left">Connect with me:</h3>
+
 <p align="left">
     <a href="https://linkedin.com/in/dmmuralitharan" target="blank"><img align="center"
             src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
