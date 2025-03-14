@@ -2,7 +2,9 @@
 
 ## 💫 About Me:
 
-💬 Ask me about: Full-stack development, optimizing frontend-backend integration, and improving project scalability.<br>
+🚀 Full-Stack Developer | Trainer
+
+💬 Ask me about: Full-stack development, training aspiring developers, optimizing frontend-backend integration, and building scalable applications.
 
 ## 🌐 Socials:
 
