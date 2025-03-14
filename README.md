@@ -2,7 +2,7 @@
 
 ## 💫 About Me:
 
-🔭 I’m currently working on: an Online learning platform.<br>🌱 I’m currently learning: NgRx.<br>💬 Ask me about: Full-stack development, optimizing frontend-backend integration, and improving project scalability.<br>
+💬 Ask me about: Full-stack development, optimizing frontend-backend integration, and improving project scalability.<br>
 
 ## 🌐 Socials:
 
@@ -25,6 +25,8 @@
   <img src="https://img.shields.io/badge/Bootstrap-7952B3?logo=bootstrap&logoColor=white&style=for-the-badge" height="23" style="border-radius:5px" alt="bootstrap logo"  />
   <img width="1" />
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black&style=for-the-badge" height="23" style="border-radius:5px" alt="javascript logo"  />
+  <img width="1" />
+  <img src="https://img.shields.io/badge/React-20232A?logo=react&logoColor=61DAFB&style=for-the-badge" height="23" style="border-radius:5px" alt="React logo" />
   <img width="1" />
   <img src="https://img.shields.io/badge/Angular-DD0031?logo=angular&logoColor=white&style=for-the-badge" height="23" style="border-radius:5px" alt="angularjs logo"  />
   <img width="1" />
