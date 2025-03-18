@@ -17,7 +17,7 @@
 
 ###
 
-<div align="left" style="display:flex">
+<div align="left" style="width:100vw;display:flex;flex-wrap:wrap;">
   <img src="https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white&style=for-the-badge" height="23" style="border-radius:5px" alt="html5 logo"  />
   <img width="1" />
   <img src="https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white&style=for-the-badge" height="23" style="border-radius:5px" alt="css3 logo"  />
