@@ -2,14 +2,18 @@
 
 ## 💫 About Me:
 
-🚀 Full-Stack Developer | Trainer
+🚀 Full-Stack Developer | 🎓 Trainer
 
 💬 Ask me about: Full-stack development, training aspiring developers, optimizing frontend-backend integration, and building scalable applications.
 
 ## 🌐 Socials:
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/dmmuralitharan) 
-[![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/dmmuralitharan)
+<a href="https://linkedin.com/in/dmmuralitharan" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" alt="LinkedIn" />
+</a>
+<a href="https://x.com/dmmuralitharan" target="_blank">
+  <img src="https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white" alt="X (Twitter)" />
+</a>
 
 <h2 align="left">💻 Tech Stack</h2>
 
