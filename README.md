@@ -11,11 +11,7 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/dmmuralitharan) 
 [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/dmmuralitharan)
 
-###
-
 <h2 align="left">💻 Tech Stack</h2>
-
-###
 
 <div align="left" style="display:flex;flex-wrap:wrap;row-gap:0.25rem;">
   <img src="https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white&style=for-the-badge" height="23" style="border-radius:5px" alt="html5 logo"  />
@@ -54,5 +50,3 @@
   <img width="1" />
   <img src="https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black&style=for-the-badge" height="23" style="border-radius:5px" alt="linux logo"  />
 </div>
-
-###
