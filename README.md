@@ -9,10 +9,10 @@
 ## 🌐 Socials:
 
 <a href="https://linkedin.com/in/dmmuralitharan" target="_blank" style="text-decoration: none;">
-  <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" alt="LinkedIn" />
+  <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" height="23" style="border-radius:5px" alt="LinkedIn" />
 </a>
 <a href="https://x.com/dmmuralitharan" target="_blank" style="text-decoration: none;">
-  <img src="https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white" alt="X (Twitter)" />
+  <img src="https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white" height="23" style="border-radius:5px" alt="X (Twitter)" />
 </a>
 
 <h2 align="left">💻 Tech Stack</h2>
