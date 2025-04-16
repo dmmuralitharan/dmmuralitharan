@@ -11,7 +11,7 @@ Full-stack development, training aspiring developers, optimizing frontend-backen
 #### ⚡ Fun fact:
 
 Everyone thinks my username *dmmuralitharan* means "direct message Muralitharan",  
-but it actually stands for *Duraisingam Muttiah Muralitharan* — my father's name and my pet name!
+but it actually stands for *Duraisingam Muttiah Muralitharan* — my father's name and my childhood nickname!
 
 ## 🌐 Socials:
 
