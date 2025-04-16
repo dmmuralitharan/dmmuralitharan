@@ -4,7 +4,14 @@
 
 🚀 Full-Stack Developer | 🎓 Trainer
 
-💬 Ask me about: Full-stack development, training aspiring developers, optimizing frontend-backend integration, and building scalable applications.
+### 💬 Ask me about
+
+Full-stack development, training aspiring developers, optimizing frontend-backend integration, and building scalable applications.
+
+### ⚡ Fun fact:
+
+Everyone thinks my username *dmmuralitharan* means "direct message Muralitharan",  
+but it actually stands for *Durai Singam Muttiah Muralitharan* — my father's name and my pet name!
 
 ## 🌐 Socials:
 
