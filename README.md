@@ -2,7 +2,7 @@
 
 ## 💫 About Me:
 
-🚀 Full-Stack Developer | 🎓 Trainer | 👨‍💻 Lifelong Learner  
+🚀 Developer | 🎓 Trainer | 👨‍💻 Lifelong Learner  
 
 I build modern web & mobile applications and guide aspiring developers to level up their skills. Passionate about clean code, scalable architecture, and real-world project mentoring.
 
