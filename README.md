@@ -1,5 +1,9 @@
 <h1 align="center">Hi 👋, I'm Muralitharan</h1>
 
+<p align="center">
+  <img src="assets/Github_Banner.png" alt="Muralitharan - Developer & Trainer banner" />
+</p>
+
 ## 💫 About Me:
 
 🚀 Developer | 🎓 Trainer | 👨‍💻 Lifelong Learner  
@@ -54,7 +58,7 @@ but it actually stands for **Duraisingam Muttiah Muralitharan** — a combinatio
 
 ## 💻 Tech Stack
 
-<div align="left" style="display:flex;flex-wrap:wrap;row-gap:0.25rem;">
+<div align="center" style="display:flex;flex-wrap:wrap;row-gap:0.25rem;">
   <img src="https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white&style=for-the-badge" height="23" />
   <img src="https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white&style=for-the-badge" height="23" />
   <img src="https://img.shields.io/badge/Tailwind CSS-06B6D4?logo=tailwindcss&logoColor=black&style=for-the-badge" height="23" />
@@ -88,7 +92,7 @@ but it actually stands for **Duraisingam Muttiah Muralitharan** — a combinatio
 ## 🤝 Let's Collaborate!
 
 If you're working on something cool or want to brainstorm ideas, feel free to reach out.  
-Whether it's open-source, freelancing, or mentoring — I'm up for it!
+Whether it's **open-source, freelancing, or mentoring** — I'm up for it!
 
 ---
 
