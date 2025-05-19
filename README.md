@@ -14,7 +14,7 @@ I build modern web & mobile applications and guide aspiring developers to level 
 
 ## 💬 Ask me about
 
-- Full-stack development (React, Node.js, Flask, MongoDB/MySQL)
+- Full-stack development
 - Building scalable backend APIs and frontend architectures
 - Mentoring and training beginner to intermediate developers
 - Rapid prototyping and feature planning for MVPs
