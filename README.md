@@ -31,7 +31,7 @@ but it actually stands for **Duraisingam Muttiah Muralitharan** — a combinatio
 ## 🔭 What I'm Currently Working On
 
 - 📊 Building a **React Reusable Admin Dashboard** – scalable, customizable, and cleanly structured.
-- 🧑‍🏫 Training students on React, Tailwind, Flask & Flutter
+- 🧑‍🏫 Training students on React, Tailwind, Flask & MySQL.
 
 ---
 
