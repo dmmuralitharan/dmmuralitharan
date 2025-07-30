@@ -46,9 +46,6 @@ but it actually stands for **Duraisingam Muttiah Muralitharan** — a combinatio
 <a href="https://linkedin.com/in/dmmuralitharan" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" height="23" />
 </a>
-<a href="https://x.com/dmmuralitharan" target="_blank">
-  <img src="https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white" height="23" />
-</a>
 <a href="mailto:dmmuralitharan@gmail.com" target="_blank">
   <img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white" height="23" />
 </a>
