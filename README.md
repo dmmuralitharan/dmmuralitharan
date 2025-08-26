@@ -1,12 +1,12 @@
 <h1 align="center">Hi 👋, I'm Muralitharan</h1>
 
 <p align="center">
-  <img src="assets/Github_Banner.png" alt="Muralitharan - Developer & Trainer banner" />
+  <img src="assets/Github_Banner.png" alt="Muralitharan - Full Stack Developer & IT Trainer banner" />
 </p>
 
 ## 💫 About Me:
 
-🚀 Developer | 🎓 Trainer | 👨‍💻 Lifelong Learner  
+🚀 Full Stack Developer | 🎓 IT Trainer | 👨‍💻 Lifelong Learner  
 
 I build modern web & mobile applications and guide aspiring developers to level up their skills. Passionate about clean code, scalable architecture, and real-world project mentoring.
 
@@ -30,7 +30,10 @@ but it actually stands for **Duraisingam Muttiah Muralitharan** — a combinatio
 
 ## 🔭 What I'm Currently Working On
 
-- 🧑‍🏫 Training students on Flutter / (React, Tailwind), Flask & MySQL.
+- Building full stack web applications using **React, Angular, Node.js, and Flask**  
+- Developing cross-platform mobile apps with **Flutter**  
+- Training **students, developers, and IT professionals** in modern web & mobile technologies  
+- Working on **freelancing** (web & mobile app development, IT training)
 
 ---
 
@@ -68,6 +71,7 @@ but it actually stands for **Duraisingam Muttiah Muralitharan** — a combinatio
   <img src="https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=white&style=for-the-badge" height="23" />
   <img src="https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white&style=for-the-badge" height="23" />
   <img src="https://img.shields.io/badge/PHP-777BB4?logo=php&logoColor=black&style=for-the-badge" height="23" />
+  <img src="https://img.shields.io/badge/Flutter-02569B?logo=flutter&logoColor=white&style=for-the-badge" height="23" />
   <img src="https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white&style=for-the-badge" height="23" />
   <img src="https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white&style=for-the-badge" height="23" />
   <img src="https://img.shields.io/badge/GitHub Actions-2388FF?logo=githubactions&logoColor=white&style=for-the-badge" height="23" />
