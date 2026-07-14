@@ -39,7 +39,7 @@ but it actually stands for **Duraisingam Muttiah Muralitharan** — a combinatio
 
 ## 🧠 Currently Learning
 
-- AI SEO 
+- Go 
 
 
 ---
