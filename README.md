@@ -37,13 +37,6 @@ but it actually stands for **Duraisingam Muttiah Muralitharan** — a combinatio
 
 ---
 
-## 🧠 Currently Learning
-
-- Go 
-
-
----
-
 ## 🌐 Connect with Me
 
 <a href="https://linkedin.com/in/dmmuralitharan" target="_blank">
